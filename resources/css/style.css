@@ -1,16 +1,26 @@
 body {
   background-color: black;
+  font-family: Verdana;
+  text-align: center;
 }
 
 h1 {
-  font-family: Verdana;
   font-weight: normal;
-  font-size: 50px
+  font-size: 50px;
   color: white;
   text-align: center;
 }
 
-.link {
-  color: aquamarine
-  font-size: 16px
+video {
+  object-fit: cover;
+}
+
+.linktitle {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.secondpart {
+  font-size: 21px;
+  color: gray;
 }
